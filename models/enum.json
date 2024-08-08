@@ -1,0 +1,4 @@
+{
+	"user_type": ["user", "promoter", "manager", "supervisor"],
+    "gender": ["male", "female"]
+}
